@@ -319,8 +319,8 @@ img {
   z-index: var(--z-back);
 }
 
-.skills__git {
-  width: 95%;
+.skills__gcp {
+  width: 90%;
 }
 
 .skills__aws {
@@ -331,7 +331,7 @@ img {
   width: 80%;
 }
 
-.skills__kubernaties {
+.skills__ci_cd {
   width: 85%;
 }
 
